@@ -4,7 +4,7 @@
 and come home to just your apps, with a new place to visit behind them every week.**
 
 Glass TV debloats any Android TV or Google TV over Wi-Fi, with no root and nothing that can't be undone, then
-swaps the ad-filled home screen for a light one in frosted glass, with a new set of places behind your apps
+swaps the ad-filled home screen for a light one in frosted glass, with a new set of places behind your  apps
 every week.
 
 <p>
